@@ -1,5 +1,6 @@
 # ST-With-ControlNet
-Modified Stable Diffusion to use the Automatic1111 ControlNet API
+Modified Stable Diffusion to use the Automatic1111 ControlNet API in SillyTavern
+https://github.com/SillyTavern/SillyTavern
 
 Adds controlnet to Silly Tavern.
 
