@@ -167,8 +167,9 @@ const defaultSettings = {
     source: sources.extras,
     //ControlNet
     controlnet: false,
-    controlnet_pixelperfect: true,
-    controlnet_weight: 1,
+    controlnet_prefer: "ControlNet is more important",
+    controlnet_pixelperfect: false,
+    controlnet_weight: 0.6,
     controlnet_inputRef: "char",
     controlnet_attachTo: [6, 4, 1, 3],
     // CFG Scale
