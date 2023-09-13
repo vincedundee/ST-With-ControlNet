@@ -5,11 +5,12 @@ https://github.com/SillyTavern/SillyTavern
 Adds controlnet to Silly Tavern.
 
 ## To Install
-BACKUP your stable-diffusion folder at 
-/public/scripts/extensions/stable-diffusion
+## Folder: SillyTavern/public/scripts/extensions/stable-diffusion
 
-Replace your stable-diffusion folder with the one in this repo.
-Reload your Silly Tavern
+- Backup your stable-diffusion folder
+- Replace your stable-diffusion folder with the one in this repo.
+- Reload your Silly Tavern
+- Activate ControlNet in your settings.
 
 Tested with ST 1.10.2 Vectors
 
