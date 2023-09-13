@@ -2,7 +2,9 @@
 Modified Stable Diffusion to use the Automatic1111 ControlNet API in SillyTavern
 https://github.com/SillyTavern/SillyTavern
 
-Adds controlnet to Silly Tavern.
+Adds controlnet to Silly Tavern's Stable Diffusion Extension.
+
+Note: This is only for Automatic1111 v1.6.0+ that has ControlNet already working.
 
 ## To Install
 ## Folder: SillyTavern/public/scripts/extensions/stable-diffusion
